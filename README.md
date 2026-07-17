@@ -1,4 +1,4 @@
-# ADVANCED WEATHER APP 
+# Advanced Weather App 
 This is an API based project that uses wttr.in API in order to get the information about the weather.
 On running the program, it will show you the MAIN MENU containing four options  
 1. CURRENT WEATHER REPORT
